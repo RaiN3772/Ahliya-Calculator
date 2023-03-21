@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ahliya-calculator",
+    "slug": "ahliya-calculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
